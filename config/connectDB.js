@@ -9,10 +9,4 @@ const connectDB = async () => {
     }
 }
 
-
-//MONGO_URL = mongodb+srv://expenses-tracker:xyvLAFuhQVnIiAqg@expenses-trackers.fgn7ufg.mongodb.net/expenseApp
-//xyvLAFuhQVnIiAqg
-//P1BzVouylnK9eSjN
-//mongodb+srv://expenses-tracker:P1BzVouylnK9eSjN@expenses-trackers.fgn7ufg.mongodb.net/expenseApp
-
 module.exports = connectDB;
